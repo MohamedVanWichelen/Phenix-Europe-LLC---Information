@@ -1,0 +1,57 @@
+README - Phenix Europe LLC Information Page 🚀
+Overview 📝
+This project creates a clean and professional information page for Phenix Europe LLC.
+The design is minimalist, black and white, and focuses on presenting company data clearly and efficiently.
+
+Features ✨
+Single-page layout (no navigation)
+
+Responsive design (mobile & desktop)
+
+Minimalist, business-inspired styling
+
+Clearly organized sections: header, company details, legal notes, footer
+
+Technologies Used 💻
+HTML5 (structure)
+
+CSS3 (styling: flexbox, grid, media queries)
+
+No JavaScript – pure CSS
+
+No additional dependencies (no frameworks or libraries)
+
+Structure 🏗️
+Header: Company name & tagline
+
+Info Section: Grid layout with official information: company name, agent, addresses, organizer, contact, date
+
+Description: Legal/general mention about the company's status
+
+Footer: Copyright and rights reserved
+
+Development Steps 🛠️
+Design Brief: Defined business requirements for a sober, modern page
+
+Component Building: Used semantic HTML for accessibility and clear sections
+
+Styling: Applied your preferred minimalist CSS, ensured responsive layouts
+
+Content Entry: Inserted data from official documents
+
+Testing: Verified appearance on all devices, iterated for best results
+
+How to Use 🚦
+Just open index.html in any web browser!
+No setup, install, or server required.
+
+Customization 🎨
+For updates: Edit the text in the .info-value spans
+
+To add fields: Duplicate .info-item blocks
+
+For style changes: Adjust the CSS <style> section
+
+License 📄
+Feel free to use or modify for corporate websites or documentation.
+
